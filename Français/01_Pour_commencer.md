@@ -3,7 +3,7 @@
 
 ## Fonctionnalités
 * tout le contenu est archivé : le texte et les photos
-* l'application web est entièrement responsieve
+* l'application web est entièrement responsive
 * vous pouvez exporter vos articles au format ePub
 * des applications smartphones vous permettent de lire vos articles tout en étant déconnecté
 * des extensions pour votre navigateur vous permettent d'archiver rapidement un nouvel article
