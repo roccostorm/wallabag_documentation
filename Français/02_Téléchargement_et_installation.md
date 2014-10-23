@@ -24,3 +24,7 @@ php composer.phar install
 ```
 
 Si vous ne pouvez pas installer `composer` (dans le cas d'hébergement mutualisé par exemple), nous vous proposons un fichier [vendor.zip](http://wllbg.org/vendor) à décompresser dans votre répertoire wallabag.
+
+## Installation de wallabag
+
+...
